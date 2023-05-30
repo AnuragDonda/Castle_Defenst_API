@@ -5,9 +5,9 @@
   "google_interstitialID": "ca-app-pub-3940256099942544/1033173712",
   "google_rewardID": "ca-app-pub-3940256099942544/5224354917",
   "google_appOpenID": "ca-app-pub-3940256099942544/3419835294",
-  "applovin_bannerID": "876a8350606b06e6",
-  "applovin_interstitialID": "eb952ccc320d3136",
-  "applovin_rewardID": "1999d2b386f09201",
-  "applovin_appOpenID": "23e7fecce306d048",
+  "applovin_bannerID": "17ed80a760d521dc",
+  "applovin_interstitialID": "31eafd9d317f416e",
+  "applovin_rewardID": "b1e371a683e2adc3",
+  "applovin_appOpenID": "bb8aa55d7d0c6a0f",
   "applovin_SDK_KEY": "En4SrncPFPQTsHwwhJ5_xhpUm3WisbaAbB3v4V65NVca1R4qg1nMXqshzaW8RcU6eTAboyb6OU19lAHC_0hSXP"
 }
