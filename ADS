@@ -9,5 +9,7 @@
   "applovin_interstitialID": "31eafd9d317f416e",
   "applovin_rewardID": "b1e371a683e2adc3",
   "applovin_appOpenID": "bb8aa55d7d0c6a0f",
-  "applovin_SDK_KEY": "En4SrncPFPQTsHwwhJ5_xhpUm3WisbaAbB3v4V65NVca1R4qg1nMXqshzaW8RcU6eTAboyb6OU19lAHC_0hSXP"
+  "applovin_SDK_KEY": "En4SrncPFPQTsHwwhJ5_xhpUm3WisbaAbB3v4V65NVca1R4qg1nMXqshzaW8RcU6eTAboyb6OU19lAHC_0hSXP",
+  "level_start_Ads": "true",
+  "level_ads_percentage": "100"
 }
