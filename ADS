@@ -1,15 +1,15 @@
 {
   "ads_power" : "1",
-  "status": "1",
-  "google_bannerID": "ca-app-pub-3940256099942544/6300978111",
-  "google_interstitialID": "ca-app-pub-3940256099942544/1033173712",
-  "google_rewardID": "ca-app-pub-3940256099942544/5224354917",
-  "google_appOpenID": "ca-app-pub-3940256099942544/3419835294",
+  "status": "2",
+  "google_bannerID": "ca-app-pub-8549513295169442/4635591801",
+  "google_interstitialID": "ca-app-pub-8549513295169442/2975025776",
+  "google_rewardID": "ca-app-pub-8549513295169442/3462110935",
+  "google_appOpenID": "ca-app-pub-8549513295169442/8035780767",
   "applovin_bannerID": "17ed80a760d521dc",
   "applovin_interstitialID": "31eafd9d317f416e",
   "applovin_rewardID": "b1e371a683e2adc3",
   "applovin_appOpenID": "bb8aa55d7d0c6a0f",
   "applovin_SDK_KEY": "En4SrncPFPQTsHwwhJ5_xhpUm3WisbaAbB3v4V65NVca1R4qg1nMXqshzaW8RcU6eTAboyb6OU19lAHC_0hSXP",
   "level_start_Ads": "true",
-  "level_ads_percentage": "100"
+  "level_ads_percentage": "50"
 }
