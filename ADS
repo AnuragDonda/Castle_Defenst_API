@@ -11,5 +11,6 @@
   "applovin_appOpenID": "bb8aa55d7d0c6a0f",
   "applovin_SDK_KEY": "En4SrncPFPQTsHwwhJ5_xhpUm3WisbaAbB3v4V65NVca1R4qg1nMXqshzaW8RcU6eTAboyb6OU19lAHC_0hSXP",
   "level_start_Ads": "true",
-  "level_ads_percentage": "50"
+  "level_ads_percentage": "50",
+  "facebookAds_WithAppopen": "true"
 }
