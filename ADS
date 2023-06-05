@@ -12,5 +12,8 @@
   "applovin_SDK_KEY": "En4SrncPFPQTsHwwhJ5_xhpUm3WisbaAbB3v4V65NVca1R4qg1nMXqshzaW8RcU6eTAboyb6OU19lAHC_0hSXP",
   "level_start_Ads": "true",
   "level_ads_percentage": "50",
-  "facebookAds_WithAppopen": "true"
+  "facebookAds_WithAppopen": "true",
+  "facebook_bannerID": "727033215842684",
+  "facebook_interstitialID": "727033275842678",
+  "facebook_rewardID": "727033315842674"
 }
